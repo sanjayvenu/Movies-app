@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+}
+#heading{
+    color: yellow;
+}
+#button{
+    background-color: yellow;
+    color: green;
+    font-weight: bold;
+    border-width: 10px;
+    border-color: yellow;
+    border-style: solid;
+}
+.text{
+    padding-top: 10px;
+}
